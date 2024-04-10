@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Clothing-Store/static/css/main.d626ec72.css",
+    "main.js": "/React-Clothing-Store/static/js/main.485856f9.js",
+    "static/js/453.f262bf0d.chunk.js": "/React-Clothing-Store/static/js/453.f262bf0d.chunk.js",
+    "index.html": "/React-Clothing-Store/index.html",
+    "main.d626ec72.css.map": "/React-Clothing-Store/static/css/main.d626ec72.css.map",
+    "main.485856f9.js.map": "/React-Clothing-Store/static/js/main.485856f9.js.map",
+    "453.f262bf0d.chunk.js.map": "/React-Clothing-Store/static/js/453.f262bf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d626ec72.css",
+    "static/js/main.485856f9.js"
+  ]
+}
